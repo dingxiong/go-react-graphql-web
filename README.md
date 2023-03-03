@@ -41,5 +41,5 @@ yarn init -2
 
 # add dependencies
 yarn add esbuild react react-dom styled-components
-yarn add --dev typescript @types/react @types/react-dom @types/styled-components @types/node serve-handler @types/serve-handler
+yarn add -D typescript @types/react @types/react-dom @types/styled-components
 ```
